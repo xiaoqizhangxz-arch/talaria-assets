@@ -1,0 +1,25 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <style>.t1{font-family:Cormorant Garamond,Garamond,serif;font-weight:300;fill:#2C2820;letter-spacing:.08em}.t2{font-family:Noto Serif SC,serif;font-weight:300;fill:#2C2820}</style>
+  <rect width="400" height="400" fill="#F5F0E8"/>
+  <defs>
+    <path id="ta" d="M 80,200 A 120,120 0 0,1 320,200"/>
+    <path id="tb" d="M 315,220 A 120,120 0 0,1 85,220"/>
+  </defs>
+  <circle cx="200" cy="210" r="140" fill="none" stroke="#2C2820" stroke-width="1.5"/>
+  <circle cx="200" cy="210" r="133" fill="none" stroke="#2C2820" stroke-width="0.5"/>
+  <g transform="translate(72,90) scale(0.5)">
+    <path fill="#2C2820" d="M 90 308 C 129 301, 230 273, 311 172 C 305 211, 252 267, 126 296 C 110 300, 99 304, 90 308 Z"/>
+    <path fill="#2C2820" d="M 95 312 C 145 306, 254 272, 338 160 C 330 210, 270 277, 142 303 C 125 307, 108 311, 95 312 Z"/>
+    <path fill="#2C2820" d="M 100 316 C 163 313, 279 275, 365 151 C 352 212, 285 286, 157 310 C 137 313, 117 316, 100 316 Z"/>
+    <path fill="#2C2820" d="M 105 320 C 180 320, 300 280, 388 143 C 370 215, 298 294, 172 317 C 149 320, 125 321, 105 320 Z"/>
+    <path fill="#2C2820" d="M 110 324 C 196 328, 321 288, 400 138 C 382 220, 309 302, 185 324 C 160 327, 133 327, 110 324 Z"/></g>
+  <text class="t1" font-size="10" letter-spacing=".18em">
+    <textPath href="#ta" startOffset="12%">BIBLIOTHECA · TALARIA</textPath>
+  </text>
+  <text class="t2" font-size="9" letter-spacing=".1em">
+    <textPath href="#tb" startOffset="10%">Talaria的赛博图书馆</textPath>
+  </text>
+  <circle cx="200" cy="70" r="2" fill="#2C2820"/>
+  <circle cx="200" cy="350" r="2" fill="#2C2820"/>
+  <path fill="none" stroke="#2C2820" stroke-width="0.8" stroke-linecap="round" d="M 186,73 C 192,64 208,64 214,73"/>
+</svg>
